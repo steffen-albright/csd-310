@@ -10,9 +10,9 @@ students = db.students
 
 profiles = [
     {
-        "first_name": "Fredie",
+        "first_name": "Freddie",
         "last_name": "Krueger",
-        "student_id": "1009"
+        "student_id": "1007"
     },
     {
         "first_name": "Jason",
